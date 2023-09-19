@@ -1,0 +1,91 @@
+type_disease,qty_male,qty_female,qty_total,flag_subtree
+alcune malattie infettive e parassitarie,6409.0,7377.0,13786.0,Y
+tubercolosi,140.0,88.0,228.0,N
+aids (malattia da hiv),305.0,84.0,389.0,N
+epatite virale,883.0,853.0,1736.0,N
+altre malattie infettive e parassitarie,5081.0,6352.0,11433.0,N
+tumori,97867.0,79991.0,177858.0,Y
+tumori maligni,92777.0,75436.0,168213.0,Y
+"di cui tumori maligni delle labbra, cavità orale e faringe",2050.0,1061.0,3111.0,N
+di cui tumori maligni dell'esofago,1354.0,548.0,1902.0,N
+di cui tumori maligni dello stomaco,5082.0,3550.0,8632.0,N
+"di cui tumori maligni del colon, del retto e dell'ano",10246.0,8716.0,18962.0,N
+di cui tumori maligni del fegato e dei dotti biliari intraepatici,5708.0,2822.0,8530.0,N
+di cui tumori maligni del pancreas,6314.0,6635.0,12949.0,N
+di cui tumori maligni della laringe,1288.0,188.0,1476.0,N
+"di cui tumori maligni della trachea, dei bronchi e dei polmoni",22188.0,10110.0,32298.0,N
+di cui melanomi maligni della cute,1299.0,828.0,2127.0,N
+di cui tumori maligni del seno,153.0,13124.0,13277.0,N
+di cui tumori maligni della cervice uterina,,500.0,500.0,N
+di cui tumori maligni di altre parti dell'utero,,2634.0,2634.0,N
+di cui tumori maligni dell'ovaio,,3286.0,3286.0,N
+di cui tumori maligni della prostata,7899.0,,7899.0,N
+di cui tumori maligni del rene,2352.0,1206.0,3558.0,N
+di cui tumori maligni della vescica,4713.0,1385.0,6098.0,N
+di cui tumori maligni del cervello e del sistema nervoso centrale,2474.0,1891.0,4365.0,N
+di cui tumori maligni della tiroide,222.0,309.0,531.0,N
+di cui morbo di hodgkin e linfomi,2889.0,2348.0,5237.0,N
+di cui leucemia,3527.0,2725.0,6252.0,N
+di cui altri tumori maligni del tessuto linfatico/ematopoietico,1862.0,1642.0,3504.0,N
+di cui altri tumori maligni,11157.0,9928.0,21085.0,N
+tumori non maligni (benigni e di comportamento incerto),5090.0,4555.0,9645.0,N
+malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario,1444.0,2204.0,3648.0,N
+"malattie endocrine, nutrizionali e metaboliche",15225.0,18360.0,33585.0,Y
+diabete mellito,11879.0,13860.0,25739.0,N
+"altre malattie endocrine, nutrizionali e metaboliche",3346.0,4500.0,7846.0,N
+disturbi psichici e comportamentali,8850.0,18121.0,26971.0,Y
+demenza,7690.0,17032.0,24722.0,N
+abuso di alcool (compresa psicosi alcolica),221.0,48.0,269.0,N
+"dipendenza da droghe, tossicomania",123.0,23.0,146.0,N
+altri disturbi psichici e comportamentali,816.0,1018.0,1834.0,N
+malattie del sistema nervoso e degli organi di senso,14539.0,18625.0,33164.0,Y
+morbo di parkinson,4814.0,3922.0,8736.0,N
+malattia di alzheimer,4187.0,8859.0,13046.0,N
+altre malattie del sistema nervoso e degli organi di senso,5538.0,5844.0,11382.0,N
+malattie del sistema circolatorio,98850.0,128500.0,227350.0,Y
+malattie ischemiche del cuore,34095.0,29857.0,63952.0,Y
+di cui infarto miocardico acuto,11862.0,8563.0,20425.0,N
+du cui altre malattie ischemiche del cuore,22233.0,21294.0,43527.0,N
+altre malattie del cuore,20717.0,29106.0,49823.0,N
+malattie cerebrovascolari,23139.0,34492.0,57631.0,N
+altre malattie del sistema circolatorio,20899.0,35045.0,55944.0,N
+malattie del sistema respiratorio,30623.0,26490.0,57113.0,Y
+influenza,274.0,334.0,608.0,N
+polmonite,7708.0,7580.0,15288.0,N
+malattie croniche delle basse vie respiratorie,13677.0,10549.0,24226.0,Y
+di cui asma,180.0,328.0,508.0,N
+di cui altre malattie croniche delle basse vie respiratorie,13497.0,10221.0,23718.0,N
+altre malattie del sistema respiratorio,8964.0,8027.0,16991.0,N
+malattie dell'apparato digerente,11655.0,11308.0,22963.0,Y
+"ulcera dello stomaco, duodeno e digiuno",375.0,327.0,702.0,N
+"cirrosi, fibrosi ed epatite cronica",3289.0,1873.0,5162.0,N
+altre malattie dell'apparato digerente,7991.0,9108.0,17099.0,N
+malattie della cute e del tessuto sottocutaneo,506.0,1058.0,1564.0,N
+malattie del sistema osteomuscolare e del tessuto connettivo,1096.0,2776.0,3872.0,Y
+artrite reumatoide a osteoartrosi,270.0,1044.0,1314.0,N
+altre malattie del sistema osteomuscolare e del tessuto connettivo,826.0,1732.0,2558.0,N
+malattie dell'apparato genitourinario,6643.0,7582.0,14225.0,Y
+malattie del rene e dell'uretere,4603.0,5279.0,9882.0,N
+altre malattie dell'apparato genitourinario,2040.0,2303.0,4343.0,N
+"complicazioni della gravidanza, del parto e del puerperio",,11.0,11.0,N
+alcune condizioni morbose che hanno origine nel periodo perinatale,366.0,304.0,670.0,N
+malformazioni congenite ed anomalie cromosomiche,728.0,621.0,1349.0,N
+"sintomi, segni, risultati anomali e cause mal definite",10084.0,14904.0,24988.0,Y
+sindrome della morte improvvisa nell'infanzia,7.0,8.0,15.0,N
+cause sconosciute e non specificate,5369.0,4419.0,9788.0,N
+"altri sintomi, segni, risultati anomali e cause mal definite",4708.0,10477.0,15185.0,N
+Covid-19,44163.0,34510.0,78673.0,Y
+"Covid-19, virus identificato",41898.0,32010.0,73908.0,N
+"Covid-19, virus non identificato",2260.0,2498.0,4758.0,N
+"Covid-19, altro",5.0,2.0,7.0,N
+cause esterne di traumatismo e avvelenamento,13614.0,10920.0,24534.0,Y
+accidenti,10326.0,9786.0,20112.0,Y
+di cui accidenti di trasporto,2130.0,521.0,2651.0,N
+di cui cadute accidentali,2489.0,2268.0,4757.0,N
+di cui annegamento e sommersione accidentali,231.0,71.0,302.0,N
+di cui avvelenamento accidentale,371.0,174.0,545.0,N
+di cui altri accidenti,5105.0,6752.0,11857.0,N
+suicidio e autolesione intenzionale,2923.0,789.0,3712.0,N
+"omicidio, aggressione",135.0,91.0,226.0,N
+eventi di intento indeterminato,8.0,4.0,12.0,N
+altre cause esterne di traumatismo e avvelenamento,222.0,250.0,472.0,N

@@ -1,0 +1,18 @@
+type_disease,qty_male,qty_female,qty_total,flag_subtree
+alcune malattie infettive e parassitarie,6409.0,7377.0,13786.0,Y
+tumori,97867.0,79991.0,177858.0,Y
+tumori maligni,92777.0,75436.0,168213.0,Y
+"malattie endocrine, nutrizionali e metaboliche",15225.0,18360.0,33585.0,Y
+disturbi psichici e comportamentali,8850.0,18121.0,26971.0,Y
+malattie del sistema nervoso e degli organi di senso,14539.0,18625.0,33164.0,Y
+malattie del sistema circolatorio,98850.0,128500.0,227350.0,Y
+malattie ischemiche del cuore,34095.0,29857.0,63952.0,Y
+malattie del sistema respiratorio,30623.0,26490.0,57113.0,Y
+malattie croniche delle basse vie respiratorie,13677.0,10549.0,24226.0,Y
+malattie dell'apparato digerente,11655.0,11308.0,22963.0,Y
+malattie del sistema osteomuscolare e del tessuto connettivo,1096.0,2776.0,3872.0,Y
+malattie dell'apparato genitourinario,6643.0,7582.0,14225.0,Y
+"sintomi, segni, risultati anomali e cause mal definite",10084.0,14904.0,24988.0,Y
+Covid-19,44163.0,34510.0,78673.0,Y
+cause esterne di traumatismo e avvelenamento,13614.0,10920.0,24534.0,Y
+accidenti,10326.0,9786.0,20112.0,Y
